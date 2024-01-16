@@ -8,11 +8,11 @@
 
 ## Technologies I like
 
-<a href="https://kernel.org"><img align="center" alt="Tux" width="3%" src="https://cdn.simpleicons.org/linux/ffffff" /></a>
-<a href="https://nixos.org"><img align="center" alt="NixOS Logo" width="3%" src="https://cdn.simpleicons.org/nixos/ffffff" /></a>
-<a href="https://haskell.org"><img align="center" alt="Haskell Logo" width="3%" src="https://cdn.simpleicons.org/haskell/ffffff" /></a>
-<a href="https://rust-lang.org"><img align="center" alt="Rust Logo (CC-BY-SA-4)" width="3%" src="https://cdn.simpleicons.org/rust/ffffff" /></a>
-<a href="https://github.com/latex3/latex2e"><img align="center" alt="LaTeX Logo" width="3%" src="https://cdn.simpleicons.org/latex/ffffff" /></a>
+<a href="https://kernel.org"><img align="center" alt="Tux" width="5%" src="https://cdn.simpleicons.org/linux/ffffff" /></a>
+<a href="https://nixos.org"><img align="center" alt="NixOS Logo" width="5%" src="https://cdn.simpleicons.org/nixos/ffffff" /></a>
+<a href="https://haskell.org"><img align="center" alt="Haskell Logo" width="5%" src="https://cdn.simpleicons.org/haskell/ffffff" /></a>
+<a href="https://rust-lang.org"><img align="center" alt="Rust Logo (CC-BY-SA-4)" width="5%" src="https://cdn.simpleicons.org/rust/ffffff" /></a>
+<a href="https://github.com/latex3/latex2e"><img align="center" alt="LaTeX Logo" width="5%" src="https://cdn.simpleicons.org/latex/ffffff" /></a>
 
 <!-- Rust Logo is CC-BY-SA-4 (https://creativecommons.org/licenses/by-sa/4.0/) -->
 
