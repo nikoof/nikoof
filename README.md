@@ -2,9 +2,7 @@
 
 <a href="mailto:nicolasbratoveanu@proton.me"><img src="https://img.shields.io/badge/nicolasbratoveanu%40proton.me-8A2BE2?logo=proton&logoColor=white" alt="Proton"/></a>
 
-🇷🇴 Student living in Romania. Currently studying at [CNVA](https://cnva.eu).
-
-💻 My interests include mathematics, logic, functional programming, computer networking and philosophy.
+[CNVA](https://cnva.eu) alumnus. Currently studying at [TU/e](https://tue.nl).
 
 ## Technologies I like
 
